@@ -27,5 +27,10 @@ User dapat mencari resep berdasarkan bahan yang dimiliki, atau menggunakan tombo
 3. buka index.html di browser
 
 ## Preview
-![Meal Match Screenshot](mealmatch.png)
+![Meal Match Screenshot](meal-match.png)
+
+
+## AI Support
+Kode ini dikembangkan dengan bantuan IBM Granite model di Google Colab
+untuk mempercepat pembuatan struktur awal HTML, CSS, dan JavaScript.
 
