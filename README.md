@@ -25,3 +25,7 @@ User dapat mencari resep berdasarkan bahan yang dimiliki, atau menggunakan tombo
    ```bash
    cd meal-match
 3. buka index.html di browser
+
+## Preview
+![Meal Match Screenshot](mealmatch.png)
+
